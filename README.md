@@ -1,7 +1,7 @@
 LIST OF LINKS TO MY WORK
 
 Most Recent:
-- myCloset-MasterVersion code repository
+- myCloset-MasterVersion (code repository)
 https://github.com/JaKobe20/myCloset-MasterVersion
 
 
